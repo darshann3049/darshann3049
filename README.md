@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Darshan Neupane</h1>
-<h3 align="center"> "Junior Computer Science student and aspiring Software Engineer."</h3>
+<h3 align="center"> "Recent Grad in Computer Science and Math."</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshann3049&label=Profile%20views&color=0e75b6&style=flat" alt="darshann3049" /> </p>
